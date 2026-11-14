@@ -1,0 +1,13 @@
+# 8086 / emu8086 generated artifacts
+*.com
+*.exe
+*.obj
+*.o
+*.lst
+*.map
+*.bak
+*.tmp
+*.~asm
+.DS_Store
+Thumbs.db
+.vscode/
